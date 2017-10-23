@@ -1,5 +1,12 @@
 # Contributing New Material
 
+---
+**This repository is maintained by Boris Gorelik For the original Data Carpentry course see http://www.datacarpentry.org/python-ecology-lesson/**
+
+---
+
+
+
 Data Carpentry is an open source project, and we welcome contributions of all
 kinds: new and improved lessons, bug reports, and small fixes to existing
 material are all useful.
